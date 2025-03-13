@@ -1,0 +1,319 @@
+﻿Biosample,Organism Group,Gram-Positive,Enterbacteriaceae,Non-Fermenting Gram-Negative ,Antibiotic,Resistance Phenotype,Resistance Binary,Has MIC,MIC (mg/L),bla_TEM Mutation,bla_CTX-M Mutation,bla_OXA Mutation,blaSHV Mutation,pbp2b Mutation,Total AMR Gene Count
+SAMN06947876,E.coli and Shigella,0,1,0,amoxicillin,susceptible,0,0,0,0,0,0,0,0,5
+SAMN08605480,Serratia marcescens,0,1,0,amoxicillin,resistant,1,1,32,0,0,0,0,0,5
+SAMN03764930,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765060,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765024,Streptococcus pneumoniae,1,0,0,amoxicillin,resistant,1,1,8,0,0,0,0,0,0
+SAMN03764975,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765080,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764929,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764978,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765019,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765039,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765061,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765038,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765006,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764928,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764951,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765062,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764952,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765025,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03764977,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764933,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764984,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765047,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764937,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765023,Streptococcus pneumoniae,1,0,0,amoxicillin,resistant,1,1,8,0,0,0,0,0,0
+SAMN03764944,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765042,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764945,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765079,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765041,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765105,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765018,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764988,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764932,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765056,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03764959,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764974,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764997,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.5,0,0,0,0,0,0
+SAMN03765033,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765007,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764924,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765072,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764963,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765091,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,2,0,0,0,0,0,0
+SAMN03764969,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765054,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.12,0,0,0,0,0,0
+SAMN03764953,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765029,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765009,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765073,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03765034,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.12,0,0,0,0,0,0
+SAMN03765049,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764964,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765074,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03765081,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764949,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765035,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765013,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764938,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765046,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765083,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765027,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765044,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765067,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765104,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765003,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.25,0,0,0,0,0,0
+SAMN03765082,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764947,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765063,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.12,0,0,0,0,0,0
+SAMN03765094,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,2,0,0,0,0,0,0
+SAMN03764934,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765059,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.12,0,0,0,0,0,0
+SAMN03764993,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765022,Streptococcus pneumoniae,1,0,0,amoxicillin,resistant,1,1,8,0,0,0,0,0,15
+SAMN03764985,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03764965,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765071,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764955,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765066,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765098,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,2,0,0,0,0,0,0
+SAMN03764989,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764995,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765090,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765089,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03765086,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03765075,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765070,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03765000,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.5,0,0,0,0,0,0
+SAMN03764962,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764970,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764990,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764992,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765001,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.5,0,0,0,0,1,11
+SAMN03765031,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03764935,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764983,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03764986,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765052,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764956,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764961,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,1
+SAMN03765085,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,1,0,0,0,0,0,0
+SAMN03765036,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765053,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764973,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764982,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765084,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765055,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765005,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764931,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764966,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765076,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,6
+SAMN03765017,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765026,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,1,8
+SAMN03765077,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03764987,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764939,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,2
+SAMN03765045,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765002,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.5,0,0,0,0,1,11
+SAMN03764996,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765032,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.12,0,0,0,0,1,6
+SAMN03765011,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,1,2
+SAMN03764942,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,2
+SAMN03765078,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764957,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764941,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,2
+SAMN03765021,Streptococcus pneumoniae,1,0,0,amoxicillin,resistant,1,1,8,0,0,0,0,1,13
+SAMN03765015,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,1,4
+SAMN03764948,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,3
+SAMN03765106,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764967,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03764972,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,3
+SAMN03765004,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,2,0,0,0,0,1,10
+SAMN03764925,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,7
+SAMN03764991,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765087,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765037,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764954,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765057,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765030,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03765028,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.06,0,0,0,0,0,0
+SAMN03764998,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.5,0,0,0,0,0,0
+SAMN03764958,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765012,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,9
+SAMN03764968,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765065,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765020,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.5,0,0,0,0,1,9
+SAMN03765068,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,5
+SAMN03764994,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,1
+SAMN03765008,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,2
+SAMN03765014,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,1,4
+SAMN03765051,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764981,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765064,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764936,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765010,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765058,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765016,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03765043,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764976,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN03764980,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,0
+SAMN25894905,Staphylococcus aureus,1,0,0,amoxicillin,resistant,1,1,0.5,0,0,0,0,0,27
+SAMN32577542,Bacillus cereus group,1,0,0,amoxicillin,susceptible,0,1,0.03,0,0,0,0,0,9
+SAMN07602583,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,1,256,0,1,1,0,0,20
+SAMN07602587,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,1,256,1,1,1,1,0,17
+SAMN07602702,Providencia alcalifaciens,0,1,0,amoxicillin,resistant,1,1,256,0,0,1,0,0,28
+SAMN07602916,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,1,256,1,0,1,1,0,18
+SAMN12288114,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,11
+SAMN12288115,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,12
+SAMN12288113,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,8
+SAMN14653284,Citrobacter freundii,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,2
+SAMN11533635,Salmonella enterica,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN11533634,Salmonella enterica,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN11533637,Salmonella enterica,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN11533636,Salmonella enterica,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN13836992,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,22
+SAMN13836991,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,0,0,28
+SAMN13836990,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,9
+SAMN13836986,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,0,0,0,0,19
+SAMN13836988,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,0,0,20
+SAMN13836987,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN13836983,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,0,0,0,0,20
+SAMN13837009,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN13836999,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,0,0,0,0,26
+SAMN13837008,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,0,0,26
+SAMN13837007,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,0,0,26
+SAMN13837006,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,2
+SAMN13837005,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,1
+SAMN13837004,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,1
+SAMN13837003,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,15
+SAMN13836985,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN13837002,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,1
+SAMN13837001,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,0,0,26
+SAMN13837000,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,2
+SAMN13836989,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,1
+SAMN13836998,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,0,0,32
+SAMN13836997,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,0,0,11
+SAMN13836996,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,0,0,25
+SAMN13836995,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,21
+SAMN13836994,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,14
+SAMN13836993,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,31
+SAMN13836984,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,12
+SAMN13836982,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,0
+SAMN20982449,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,0,0,17
+SAMN20982447,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,0,0,22
+SAMN20982448,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,1,0,0,0,0,12
+SAMN20982458,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,1,0,5
+SAMN20982460,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,1,0,5
+SAMN20982459,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,0,1,0,5
+SAMN20982451,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,9
+SAMN20982450,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,12
+SAMN20982452,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,12
+SAMN20982453,Streptococcus pneumoniae,1,0,0,amoxicillin,susceptible,0,0,0,0,0,0,0,1,3
+SAMN20982456,Staphylococcus aureus,1,0,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,6
+SAMN20982455,Staphylococcus aureus,1,0,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,10
+SAMN20982457,Burkholderia cepacia complex,0,0,1,amoxicillin,resistant,1,0,0,0,0,0,0,0,6
+SAMN30333619,E.coli and Shigella,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,0,0,13
+SAMN30333623,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,1,0,11
+SAMN30333621,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,20
+SAMN30333620,Pseudomonas aeruginosa,0,0,1,amoxicillin,resistant,1,0,0,0,0,1,0,0,10
+SAMN30333622,Staphylococcus aureus,1,0,0,amoxicillin,resistant,1,0,0,0,0,0,0,0,4
+SAMN30333624,Stenotrophomonas maltophilia,0,0,1,amoxicillin,resistant,1,0,0,0,0,0,0,0,9
+SAMN43765592,Enterobacter hormaechei,0,1,0,amoxicillin,resistant,1,0,0,1,0,0,0,0,36
+SAMN43765591,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,36
+SAMN43765590,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,56
+SAMN43765589,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,35
+SAMN43765588,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,64
+SAMN43765587,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,55
+SAMN43765586,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,60
+SAMN43765505,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,31
+SAMN43765585,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,47
+SAMN43765584,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,58
+SAMN43765583,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,0,1,1,0,40
+SAMN43765582,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,35
+SAMN43765581,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,62
+SAMN43765580,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,49
+SAMN43765579,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,49
+SAMN43765578,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,54
+SAMN43765577,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,47
+SAMN43765576,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,53
+SAMN43765504,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,35
+SAMN43765575,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,32
+SAMN43765574,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,53
+SAMN43765573,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,45
+SAMN43765572,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,42
+SAMN43765571,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,49
+SAMN43765570,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,59
+SAMN43765569,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,27
+SAMN43765568,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,44
+SAMN43765567,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,45
+SAMN43765566,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,1,0,36
+SAMN43765503,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,40
+SAMN43765565,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,59
+SAMN43765564,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,0,1,1,0,36
+SAMN43765563,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,45
+SAMN43765562,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,69
+SAMN43765561,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,37
+SAMN43765560,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,54
+SAMN43765559,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,35
+SAMN43765558,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,38
+SAMN43765557,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,1,0,43
+SAMN43765556,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,36
+SAMN43765502,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,47
+SAMN43765555,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,31
+SAMN43765554,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,29
+SAMN43765553,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,43
+SAMN43765552,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,21
+SAMN43765551,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,29
+SAMN43765550,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,29
+SAMN43765549,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,27
+SAMN43765548,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,35
+SAMN43765547,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,37
+SAMN43765546,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,27
+SAMN43765501,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,37
+SAMN43765545,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,43
+SAMN43765544,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,0,0,43
+SAMN43765543,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,30
+SAMN43765542,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,1,0,31
+SAMN43765541,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,43
+SAMN43765540,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,37
+SAMN43765539,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,39
+SAMN43765538,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,29
+SAMN43765537,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,42
+SAMN43765536,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,42
+SAMN43765500,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,41
+SAMN43765535,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,1,0,43
+SAMN43765534,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,40
+SAMN43765533,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,39
+SAMN43765532,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,39
+SAMN43765531,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,0,0,46
+SAMN43765530,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,39
+SAMN43765529,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,42
+SAMN43765528,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,38
+SAMN43765527,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,42
+SAMN43765526,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,31
+SAMN43765499,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,0,0,41
+SAMN43765525,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,45
+SAMN43765524,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,0,0,43
+SAMN43765523,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,40
+SAMN43765522,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,14
+SAMN43765521,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,19
+SAMN43765520,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,37
+SAMN43765519,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,35
+SAMN43765518,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,12
+SAMN43765517,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,26
+SAMN43765516,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,35
+SAMN43765498,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,41
+SAMN43765515,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,0,1,1,0,40
+SAMN43765514,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,31
+SAMN43765513,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,44
+SAMN43765512,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,0,1,1,0,45
+SAMN43765511,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,0,1,1,0,25
+SAMN43765510,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,28
+SAMN43765509,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,39
+SAMN43765508,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,0,1,0,40
+SAMN43765507,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,35
+SAMN43765506,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,1,1,1,1,0,34
+SAMN43765497,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,1,1,0,41
+SAMN43765496,Klebsiella pneumoniae,0,1,0,amoxicillin,resistant,1,0,0,0,1,0,1,0,41
