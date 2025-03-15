@@ -1,1 +1,8 @@
 ### Project Requirements
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import confusion_matrix
+from sklearn.model_selection import train_test_split
+from sklearn.inspection import permutation_importance
+from sklearn.model_selection import cross_val_score
